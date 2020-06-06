@@ -32,7 +32,7 @@ Python with Pandas is used in a wide range of fields including academic and comm
 
 # Day 1 Topic:
 
-![](images\Pd1.png)
+![](/images/Pd1.png)
 
 1.Dissecting the anatomy of a DataFrame.
 
