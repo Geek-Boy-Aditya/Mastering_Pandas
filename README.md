@@ -32,15 +32,24 @@ Python with Pandas is used in a wide range of fields including academic and comm
 
 # Day 1 Topic:
 
-![](images\Pd1.jpeg)
+![](images\Pd1.png)
 
-1.Dissecting the anatomy of a DataFrame 
-Accessing the main DataFrame components 
-Understanding data types
-Selecting a single column of data as a Series 
-Calling Series methods 
-Working with operators on a Series
-Chaining Series methods together
-Making the index meaningful 
-Renaming row and column names 
-Creating and deleting columns
+1.Dissecting the anatomy of a DataFrame.
+
+2.Accessing the main DataFrame components.
+
+3.Understanding data types.
+
+4.Selecting a single column of data as a Series.
+
+5.Calling Series methods.
+
+6..Working with operators on a Series.
+
+7Chaining Series methods together.
+
+8.Making the index meaningful.
+
+9.Renaming row and column names. 
+
+10.Creating and deleting columns.
