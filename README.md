@@ -1,6 +1,6 @@
 
 # Mastering Pandas From Basic to Advance (14 Days)
-![](images\PD.jpeg)
+![](/images/pd.png)
 
 Pandas is an open-source Python Library providing high-performance data manipulation and analysis tool using its powerful data structures. The name Pandas is derived from the word Panel Data – an Econometrics from Multidimensional data.
 
@@ -32,7 +32,7 @@ Python with Pandas is used in a wide range of fields including academic and comm
 
 # Day 1 Topic:
 
-![](images\PD1.jpeg)
+![](images\Pd1.jpeg)
 
 1.Dissecting the anatomy of a DataFrame 
 Accessing the main DataFrame components 
