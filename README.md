@@ -56,7 +56,7 @@ Python with Pandas is used in a wide range of fields including academic and comm
 
 # Day 2 Topic:
 
-![](/images/PD3.png)
+![](/images/PD3.PNG)
 
 1.Selecting multiple DataFrame columns.
 
