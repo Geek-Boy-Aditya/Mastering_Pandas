@@ -53,3 +53,7 @@ Python with Pandas is used in a wide range of fields including academic and comm
 9.Renaming row and column names. 
 
 10.Creating and deleting columns.
+
+# Day 2 Topic:
+
+![](/imagesPd1.png)
