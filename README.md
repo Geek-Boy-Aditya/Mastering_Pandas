@@ -58,5 +58,13 @@ Python with Pandas is used in a wide range of fields including academic and comm
 
 ![](/imagesPd1.png)
 
-Selecting multiple DataFrame columns Selecting columns with methods Ordering column names sensibly Operating on the entire DataFrame Chaining DataFrame methods together Working with operators on a DataFrame Comparing missing values Transposing the direction of a DataFrame operation Determining college campus diversity
+1. Selecting multiple DataFrame columns 
+Selecting columns with methods 
+Ordering column names sensibly 
+Operating on the entire DataFrame 
+Chaining DataFrame methods together 
+Working with operators on a DataFrame 
+Comparing missing values 
+Transposing the direction of a DataFrame 
+Operation Determining college campus diversity
 
