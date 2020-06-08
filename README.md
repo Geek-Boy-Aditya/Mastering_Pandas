@@ -77,12 +77,12 @@ Python with Pandas is used in a wide range of fields including academic and comm
 9.Operation Determining college campus diversity
 
 #  Day 3
-Developing a data analysis routine 
-Reducing memory by changing data types 
-Selecting the smallest of the largest 
-Selecting the largest of each group by sorting 
-Replicating nlargest with sort_values 
-Calculating a trailing stop order price
+1.Developing a data analysis routine 
+2.Reducing memory by changing data types 
+3.Selecting the smallest of the largest 
+4.Selecting the largest of each group by sorting 
+5.Replicating nlargest with sort_values 
+6.Calculating a trailing stop order price
 
 
 
