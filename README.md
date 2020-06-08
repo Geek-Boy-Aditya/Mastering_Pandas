@@ -76,3 +76,9 @@ Python with Pandas is used in a wide range of fields including academic and comm
 
 9.Operation Determining college campus diversity
 
+#  Day 3
+Developing a data analysis routine Reducing memory by changing data types Selecting the smallest of the largest Selecting the largest of each group by sorting Replicating nlargest with sort_values Calculating a trailing stop order price
+
+
+
+
