@@ -91,18 +91,18 @@ Python with Pandas is used in a wide range of fields including academic and comm
 
 # Day 4
 
-1.Selecting Series data.
+1. Selecting Series data.
 
-2.Selecting DataFrame rows. 
+2. Selecting DataFrame rows. 
 
-3.Selecting DataFrame rows and columns simultaneously0 
+3. Selecting DataFrame rows and columns simultaneously0 
 
-4.Selecting data with both integers and labels.
+4. Selecting data with both integers and labels.
 
-5.Speeding up scalar.
+5. Speeding up scalar.
 
-6.selection Slicing rows lazily.
+6. selection Slicing rows lazily.
 
-7.Slicing lexicographically.
+7. Slicing lexicographically.
 
 
