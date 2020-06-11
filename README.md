@@ -107,4 +107,14 @@ Python with Pandas is used in a wide range of fields including academic and comm
 
 # Day 5
 
-Calculating boolean statistics Constructing multiple boolean conditions Filtering with boolean indexing Replicating boolean indexing with index selection Selecting with unique and sorted indexes Gaining perspective on stock prices Translating SQL WHERE clauses Determining the normality of stock market returns Improving readability of boolean indexing with the query method Preserving Series with the where method Masking DataFrame rows Selecting with booleans, integer location, and labels
+Calculating boolean statistics 
+Constructing multiple boolean conditions 
+Filtering with boolean indexing
+Replicating boolean indexing with index selection 
+Selecting with unique and sorted indexes
+Gaining perspective on stock prices  
+Determining the normality of stock market returns 
+Improving readability of boolean indexing with the query method 
+Preserving Series with the where method 
+Masking DataFrame rows
+Selecting with booleans, integer location, and labels
