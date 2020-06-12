@@ -127,6 +127,6 @@ Python with Pandas is used in a wide range of fields including academic and comm
 
 10. Masking DataFrame rows
 
-11. Selecting with booleans, integer location, and labels
+11. Selecting with booleans, integer location, and labels.
 
-# Day 6
+
