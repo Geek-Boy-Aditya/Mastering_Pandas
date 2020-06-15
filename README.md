@@ -130,3 +130,5 @@ Python with Pandas is used in a wide range of fields including academic and comm
 11. Selecting with booleans, integer location, and labels.
 
 
+# Day 6
+
