@@ -10,7 +10,7 @@ Prior to Pandas, Python was majorly used for data munging and preparation. It ha
 
 Python with Pandas is used in a wide range of fields including academic and commercial domains including finance, economics, Statistics, analytics, etc.
 
-## Key Features of Pandas:-
+## Key Features of Pandas:
 
 1.Fast and efficient DataFrame object with default and customized indexing.
 
